@@ -1,1 +1,1 @@
-# hackerrank-practce
+# Hackerrank Practice
